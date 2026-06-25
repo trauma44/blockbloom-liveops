@@ -1,0 +1,18 @@
+{
+  "schemaVer": 1,
+  "generatedUtcMs": 1782432000000,
+  "instances": [
+    {
+      "instanceId": "EVA_2026W27",
+      "templateId": "EV-A",
+      "startUtcMs": 1782864000000,
+      "endUtcMs": 1783468800000
+    },
+    {
+      "instanceId": "EVD_2026W28",
+      "templateId": "EV-D",
+      "startUtcMs": 1783468800000,
+      "endUtcMs": 1784073600000
+    }
+  ]
+}
