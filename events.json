@@ -1,6 +1,6 @@
 {
     "schemaVer":  1,
-    "generatedUtcMs":  1783036800000,
+    "generatedUtcMs":  1791590400000,
     "instances":  [
                       {
                           "instanceId":  "EVA_2026W27",
@@ -93,22 +93,58 @@
                           "endUtcMs":  1791936000000
                       },
                       {
-                          "instanceId":  "EVE_2026W42",
-                          "templateId":  "EV-E",
+                          "instanceId":  "EVF_2026W42",
+                          "templateId":  "EV-F",
                           "startUtcMs":  1791936000000,
                           "endUtcMs":  1792540800000
                       },
                       {
-                          "instanceId":  "EVA_2026W43",
-                          "templateId":  "EV-A",
+                          "instanceId":  "EVG_2026W43",
+                          "templateId":  "EV-G",
                           "startUtcMs":  1792540800000,
                           "endUtcMs":  1793145600000
                       },
                       {
-                          "instanceId":  "EVB_2026W44",
-                          "templateId":  "EV-B",
+                          "instanceId":  "EVE_2026W44",
+                          "templateId":  "EV-E",
                           "startUtcMs":  1793145600000,
                           "endUtcMs":  1793750400000
+                      },
+                      {
+                          "instanceId":  "EVA_2026W45",
+                          "templateId":  "EV-A",
+                          "startUtcMs":  1793750400000,
+                          "endUtcMs":  1794355200000
+                      },
+                      {
+                          "instanceId":  "EVB_2026W46",
+                          "templateId":  "EV-B",
+                          "startUtcMs":  1794355200000,
+                          "endUtcMs":  1794960000000
+                      },
+                      {
+                          "instanceId":  "EVC_2026W47",
+                          "templateId":  "EV-C",
+                          "startUtcMs":  1794960000000,
+                          "endUtcMs":  1795564800000
+                      },
+                      {
+                          "instanceId":  "EVD_2026W48",
+                          "templateId":  "EV-D",
+                          "startUtcMs":  1795564800000,
+                          "endUtcMs":  1796169600000
+                      },
+                      {
+                          "instanceId":  "EVF_2026W49",
+                          "templateId":  "EV-F",
+                          "startUtcMs":  1796169600000,
+                          "endUtcMs":  1796774400000
+                      },
+                      {
+                          "instanceId":  "EVG_2026W50",
+                          "templateId":  "EV-G",
+                          "startUtcMs":  1796774400000,
+                          "endUtcMs":  1797379200000
                       }
                   ]
 }
